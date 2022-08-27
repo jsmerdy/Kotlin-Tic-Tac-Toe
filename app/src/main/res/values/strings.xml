@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalV2</string>
+    <string name="click_to_begin">Click To Begin</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play_again">Play Again?</string>
+    <string name="winner_s_name">Winner\'s Name</string>
+    <string name="of_moves"># of Moves</string>
+    <string name="delete">Delete?</string>
+    <string name="submit_name">Submit Name!</string>
+    <string name="previous_turn">Previous Turn</string>
+    <string name="next_turn">Next Turn</string>
+</resources>
